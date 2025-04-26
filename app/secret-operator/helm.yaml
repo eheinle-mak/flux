@@ -25,4 +25,4 @@ spec:
   interval: 15m
   timeout: 5m
   values:
-    secretLength: 12
+    secretLength: ${SECRET_LENGTH}
